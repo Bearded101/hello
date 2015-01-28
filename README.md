@@ -1,6 +1,4 @@
-This is the readme file.
-========================
+TEST!!!!!!!!!!!!!!!!!!!!!
+=========================
 
-Beskriv projektet så alla kan ladda ned det och installera
-Lite ändringar
-och en till
+A little test
